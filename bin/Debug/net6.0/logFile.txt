@@ -1,0 +1,4 @@
+1: Attempted to divide by zero.
+2: The file NoFileNamedThis.txt does not exist.
+3: Index was outside the bounds of the array.
+4: Object reference not set to an instance of an object.

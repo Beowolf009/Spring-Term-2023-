@@ -1,0 +1,15 @@
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.csproj.AssemblyReference.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.AssemblyInfoInputs.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.AssemblyInfo.cs
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\bin\Debug\net6.0\LoggingExceptions.exe
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\bin\Debug\net6.0\LoggingExceptions.deps.json
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\bin\Debug\net6.0\LoggingExceptions.runtimeconfig.json
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\bin\Debug\net6.0\LoggingExceptions.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\bin\Debug\net6.0\LoggingExceptions.pdb
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\refint\LoggingExceptions.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.pdb
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\LoggingExceptions.genruntimeconfig.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\LoggingExceptions\obj\Debug\net6.0\ref\LoggingExceptions.dll
