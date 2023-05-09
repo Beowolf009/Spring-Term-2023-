@@ -1,0 +1,5 @@
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\IT232_Unit10\obj\Release\net6.0\IT232_Unit10.csproj.AssemblyReference.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\IT232_Unit10\obj\Release\net6.0\IT232_Unit10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\IT232_Unit10\obj\Release\net6.0\IT232_Unit10.AssemblyInfoInputs.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\IT232_Unit10\obj\Release\net6.0\IT232_Unit10.AssemblyInfo.cs
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\IT232_Unit10\obj\Release\net6.0\IT232_Unit10.csproj.CoreCompileInputs.cache
